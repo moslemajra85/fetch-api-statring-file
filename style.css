@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  background-color: purple;
+}
+
+.card {
+  margin: 20px auto;
+}
+
+.spinner-border{
+    display: none;
+}
